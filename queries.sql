@@ -1,4 +1,4 @@
--- Interrogazioni SQL per l'applicativo (sezione 11 documento)
+-- Interrogazioni SQL per l'applicativo 
 -- Nota: queste query corrispondono ai report implementati in glowhub/queries.py.
 -- I parametri sono indicati come :param.
 
