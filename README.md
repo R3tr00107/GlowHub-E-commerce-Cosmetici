@@ -1,6 +1,6 @@
-# GlowHub (E-tivity 4) - SQLAlchemy ORM + CRUD
+# GlowHub (E-commerce di Cosmetici) - SQLAlchemy ORM + CRUD
 
-Questo progetto implementa un applicativo Python basato su SQLAlchemy ORM che usa la base dati "GlowHub" progettata nelle E-tivity 1-2-3.
+Questo progetto implementa un applicativo Python basato su SQLAlchemy ORM che usa la base dati "GlowHub" progettata nelle E-tivity 1-2-3 del corso di Basi di Dati.
 
 Include:
 - Creazione tabelle via ORM (`init-db`)
@@ -48,7 +48,5 @@ python app.py demo
 - `add-to-cart`, `checkout`
 - `pay-order`
 - `create-shipment`
-
-> Per consegna E-tivity 4: carica questa cartella come repository su GitHub e allega il link.
 
 - `update-product-price`, `delete-product`, `delete-client`, `remove-from-cart`
